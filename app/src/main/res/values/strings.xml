@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="title_activity_lista_contatos">ListaContatosActivity</string>
+    <string name="inserir">Inserir</string>
+    <string name="remover">Remover</string>
+    <string name="alterar">Alterar</string>
+    <string name="sincronizar">Sincronizar</string>
+    <string name="solicitapermission">Por favor forneça a permissão de salvar.</string>
+    <string name="arqName">Contato.txt</string>
+    <string name="semhistorico">Você não tem histórico salvo.</string>
+</resources>
